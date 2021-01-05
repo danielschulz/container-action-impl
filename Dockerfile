@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM danielschulz/alpine:v3.12
 
 COPY LICENSE README.md /
 
